@@ -11,7 +11,7 @@
     <tr>
       <th>Student ID</th>
       <th>Name</th>
-      <th>Group ID</th>
+      <th> ID</th>
       <th>Level Group</th>
     </tr>
 
