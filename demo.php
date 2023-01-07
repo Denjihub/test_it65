@@ -1,7 +1,7 @@
 <?php
     include "header.php";
     include "banner.php";
-    include "navbar.php ";
+    include "navbar.php";
 ?>
 
 
